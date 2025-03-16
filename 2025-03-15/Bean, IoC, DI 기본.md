@@ -67,5 +67,6 @@ public class MemberRequestDto {
 public class MemberService { }
 ```
 
-✅ 하지만 대부분의 경우 **싱글톨이 더 효율적**이다.
+✅ 하지만 대부분의 경우 **싱글톤이 더 효율적**이다.
+
 
